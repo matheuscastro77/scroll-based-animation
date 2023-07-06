@@ -2,7 +2,7 @@
 
 ## DEPLOY
 
-https://scroll-based-animation-self.vercel.app/
+[Scroll Based Animation](https://scroll-based-animation-self.vercel.app/)
 
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
